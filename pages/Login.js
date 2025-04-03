@@ -1,4 +1,4 @@
-exports.Loginpagee= class Loginpage{
+export const Loginpagee= class Loginpage{
 
     constructor(page){
 
